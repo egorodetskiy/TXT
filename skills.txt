@@ -1,0 +1,7 @@
+Skill#1-GIT
+Skill#2-Postman
+Skill#3-JavaScript
+Skill#4-Charles
+Skill#5-Fiddler
+Skill#6-SQL
+Skill#7-Android Studio
